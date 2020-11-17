@@ -1,0 +1,11 @@
+*.xmpi
+*.aux
+*.fls
+*.log
+*.fdb_latexmk
+*.out
+*.gz
+*.toc
+*.xmpdata
+*.bbl
+*.blg
